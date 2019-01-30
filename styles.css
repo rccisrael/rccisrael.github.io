@@ -14,10 +14,14 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .jumbotron {
-    background-image: url(VTCollage4.jpg);
+    background-image: url(Banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 1000px;
+    height: 500px;
     padding-top: 100px;
+}
+
+.lead {
+    color: white;
 }
