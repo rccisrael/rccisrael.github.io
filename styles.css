@@ -6,6 +6,18 @@ h1, h2, h3, h4, h5, h6 {
  font-family: 'Crimson Text', serif;
 }
 
-.navbar-nav {
-    padding-left: 700px
+.display-4 {
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+}
+
+
+.jumbotron {
+    background-image: url(VTCollage4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1000px;
+    padding-top: 100px;
 }
