@@ -73,3 +73,11 @@ h5 {
 .card-img-top {
     width: 100%;
 }
+
+.card-title {
+    font-size: 24px;
+}
+
+table {
+    font-size: 14px;
+}
