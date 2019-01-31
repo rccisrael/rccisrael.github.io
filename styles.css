@@ -25,3 +25,30 @@ h1, h2, h3, h4, h5, h6 {
 .lead {
     color: white;
 }
+
+img {
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+p {
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 16px;
+}
+
+.fa-home {
+    font-size: 24px;
+    padding-left: 10px;
+}
+
+.carousel-inner {
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
