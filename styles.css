@@ -12,8 +12,11 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 
+.navbar-brand {
+    color: #465d50;
+}
 
-.jumbotron {
+.jumbotron.home {
     background-image: url(Banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -51,4 +54,22 @@ p {
     padding: 10px;
     padding-left: 10px;
     padding-right: 10px;
+}
+
+.jumbotron.eat {
+    background-image: url(restaurantbanner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    padding-top: 100px;
+    width: 100%;
+}
+
+h5 {
+    text-align: center;
+}
+
+.card-img-top {
+    width: 100%;
 }
